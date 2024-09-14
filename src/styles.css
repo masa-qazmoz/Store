@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.google.com/specimen/Quicksand");
+body{
+    margin: 0;
+    font-family: "Quicksand",sans-serif;
+    font-size: 18px;
+    background-image:"back.jpg";
+}

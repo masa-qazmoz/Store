@@ -1,0 +1,21 @@
+header{
+    background: rgb(241, 185, 215);
+    padding: 0;
+    border-bottom: 1px rgb(241, 185, 215);
+}
+a{
+    color: white;
+}
+a:hover{
+    background: rgb(248, 173, 186);
+    color: white;
+}
+.container{
+    margin: 0 auto;
+    display:flex;
+    justify-content: space-between;
+}
+a.logo{
+    font-weight: bold;
+    padding: 1em;
+}
